@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>公司代理</title>
         <item>
-            <title>2.10.1</title>
-            <pubDate>Sun, 22 Nov 2026 01:54:45 +0800</pubDate>
-            <sparkle:version>2.10.1</sparkle:version>
-            <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
+            <title>2.10.2</title>
+            <pubDate>Sun, 22 Nov 2026 18:34:10 +0800</pubDate>
+            <sparkle:version>2.10.2</sparkle:version>
+            <sparkle:shortVersionString>2.10.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/xbguan/corporate-proxy-updates/releases/download/corp-proxy-v2.10.1/CorpProxy-2.10.1.dmg" length="2639461" type="application/octet-stream" sparkle:edSignature="tawx4IpiI/vPXffnnxbcmzIRY6TSFhMZvLS7VXhED8B3g3eyLsL75vyND5NgiwaJlQUwagtTOep6g9/XMB7vDg=="></enclosure>
+            <enclosure url="https://github.com/xbguan/corporate-proxy-updates/releases/download/corp-proxy-v2.10.2/CorpProxy-2.10.2.dmg" length="2649069" type="application/octet-stream" sparkle:edSignature="xfH3yviqK5rmsQ1KeCCcSYS1WNq76UQpmWkOrKOFscxZisE3Z9PEGZoGBVPgp41JWhGVkBaGOqdmedxs0cblDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6Bcxdmf4VhUZ2Wxz5l32jrvNeyJRydnznU3WQsXUDyMAeDjSpO9r2vv7CE2Wl/ylbIrP4G973wOPPrT1F4T6CA==
+edSignature: dQPa01av8mS3h6mJxUmReJ7JEYFd1pxpVaARU54UlMgAPe+ccx/JnNxr+j5OpnrVDkw4l1ozAY5rYRy6ES+jDQ==
 length: 1079
 -->
